@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Pifagor</string>
+    <string name="title">Решение по формуле ПИФАГОРА</string>
+    <string name="result_info">Результат: &#32;</string>
+    <string name="number_a">Запишите значение: \"a\"</string>
+    <string name="number_b">Запишите значение: \"b\"</string>
+    <string name="result">Узнать ответ</string>
+</resources>
